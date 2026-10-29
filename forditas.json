@@ -1,0 +1,148 @@
+{
+  "texts": {
+    "7": "Betöltés",
+    "53": [
+      "Hadley-cellák",
+      "(metszet)"
+    ],
+    "54": "Polárfront",
+    "96": "ITCZ",
+    "101": "M",
+    "114": "A",
+    "126": "Szubtrópusi maximumok",
+    "199": [
+      "Ráktérítő (23,5",
+      "0",
+      " É)"
+    ],
+    "200": "Egyenlítő",
+    "201": [
+      "Baktérítő (23,5",
+      "0",
+      " D)"
+    ],
+    "202": [
+      "Déli sarkkör (66,5",
+      "0",
+      " D)"
+    ],
+    "203": [
+      "Északi sarkkör (66,5",
+      "0",
+      " É)"
+    ],
+    "209": [
+      "Havi",
+      "csapadék (mm)"
+    ],
+    "214": "ápr.",
+    "215": "máj.",
+    "216": "jún.",
+    "217": "júl.",
+    "218": "aug.",
+    "219": "okt.",
+    "220": "szept.",
+    "221": "nov.",
+    "222": "dec.",
+    "223": "jan.",
+    "224": "márc.",
+    "225": "febr.",
+    "263": [
+      "ITCZ",
+      "be"
+    ],
+    "265": [
+      "ITCZ",
+      "ki"
+    ],
+    "268": [
+      "Légnyomás",
+      "be"
+    ],
+    "270": [
+      "Légnyomás",
+      "ki"
+    ],
+    "273": [
+      "Hadley-metszet",
+      "be"
+    ],
+    "275": [
+      "Hadley-metszet",
+      "ki"
+    ],
+    "278": [
+      "Csapadék",
+      "be"
+    ],
+    "280": [
+      "Csapadék",
+      "ki"
+    ],
+    "283": "Feliratok ki",
+    "285": "Feliratok be",
+    "288": "Licenc",
+    "290": "Alkotók",
+    "296": "bezár",
+    "310": "Verzió: 2002. nov. 26.",
+    "315": [
+      "2003 Prentice Hall, Inc.",
+      "A Pearson csoport tagja"
+    ],
+    "302": [
+      "Kivitelezés",
+      "CADRE design Pty Ltd",
+      "Producer",
+      "E,",
+      "  ",
+      "Ügyvezető",
+      "David Hegarty",
+      "Szakértő",
+      "Robert Creelman",
+      "Animáció",
+      "Leigh Russell, ",
+      "E,"
+    ],
+    "304": [
+      "Szerzők",
+      "Robert W. Christopherson, ",
+      "American River College, emeritus",
+      "Darrel Hess,",
+      "City College of San Francisco",
+      "Frederick K. Lutgens,",
+      "Illinois Central College, emeritus",
+      "Edward J. Tarbuck,",
+      "Illinois Central College, emeritus"
+    ],
+    "305": [
+      "Prentice Hall – szerkesztőség",
+      "Médiaszerkesztő, földtudományok",
+      "Vezető szerkesztő, földrajz",
+      "Felelős szerkesztő, földtan",
+      "Főszerkesztő, élet- és földtudományok",
+      "Társszerkesztő, földrajz",
+      "Segédszerkesztő, földtan",
+      "Szerkesztőségi munkatárs, földrajz",
+      "Szerkesztőségi munkatárs, földtan",
+      "Vezető marketingmenedzser",
+      "Marketingasszisztens"
+    ],
+    "306": [
+      "Prentice Hall – gyártási csapat",
+      "Gyártási alelnök",
+      "Vezető gyártásszerkesztő,",
+      "természettudomány és matematika",
+      "Gyártásszerkesztő-helyettes, média",
+      "Gyártásvezető",
+      "Gyártásvezető-helyettes",
+      "Gyártási beszerző",
+      "Kreatív igazgató",
+      "Audiovizuális anyagok szerkesztője",
+      "Gyártástechnológiai vezető",
+      "Audiovizuális gyártásszerkesztő",
+      "Médiagyártási felügyelő"
+    ]
+  },
+  "licence_hu": "A végfelhasználói licencszerződés (EULA) általános feltételein túl az alábbi feltételek és korlátozások vonatkoznak e Flash-fájlok használatára. Ha ezeket nem fogadja el, a fájlokat az EULA által megengedett eseteken kívül ne másolja, ne terjessze és ne jelenítse meg.\nFLASH-FÁJLOK FELHASZNÁLÁSI ENGEDÉLYE: A Pearson Education, Inc. (a Társaság) e Flash-fájlokat kizárólag oktatási célra engedélyezi. Az engedély lehetővé teszi, hogy a fájlokhoz mellékelt társasági tankönyvet használó kurzus oktatója a fájlokat prezentációs szoftverrel (például PowerPointtal) és online környezetben (például a világhálón) használja és bemutassa, feltéve, hogy ez a kurzushoz kapcsolódik, és kizárólag oktatási célú.\nAz engedély csak addig érvényes, amíg az oktató a Társaság tankönyvét használja a kurzuson; ezt követően automatikusan megszűnik. A Társaság fenntart minden, itt vagy az EULA-ban át nem engedett jogot. Ön csak a Flash-fájlokat tartalmazó fizikai lemez(ek) tulajdonosa; maguk a Flash-fájlok a Társaság és/vagy licencadói tulajdonában maradnak.",
+  "licence_original": "In addition to the general terms and conditions of the End-User License  Agreement (\"EULA\"), the following terms and limitations shall apply to  your use of these Flash files.  If you do not agree with these terms and  limitations, DO NOT COPY, DISTRIBUTE OR OTHERWISE DISPLAY  these Flash files, except as provided in the EULA. GRANT OF LICENSE FOR FLASH FILES:  These Flash files are  licensed to you by Pearson Education, Inc. (\"Company\") for academic  purposes only.  This license allows instructors of a course using the  Company textbook that accompanies these Flash files (the \"Course\") to  use and display the Flash files solely in connection with presentational  software (i.e., Powerpoint) and in the on-line environment (i.e., world wide  web) so long as such use is related to the Course and it is for academic use  only.  This license is in effect only during the time that the instructor  utilizes the Company textbook for the Course, and automatically expires  thereafter.  The Company reserves any rights not granted to you herein or  in the EULA.  You own only the physical disk(s) containing these Flash  files but the Company and/or its licensors own the Flash files themselves."
+}
